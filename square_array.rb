@@ -1,4 +1,4 @@
-def square_array(numbers)
+def square_array(arr)
   new_numbers = []
   numbers.each do |num|
   new_numbers << (num ** 2)
